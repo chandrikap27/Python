@@ -1,0 +1,5 @@
+x=input("enter x:")
+x=int(x)
+n=input("enter n:")
+n=int(n)
+print(x**n)
